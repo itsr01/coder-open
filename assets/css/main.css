@@ -1,0 +1,8 @@
+body {
+    transition: color 1s ease;
+    transition: background-color 1s ease;
+}
+
+.bg-dark-blue {
+    background-color: #000e1b!important
+}
