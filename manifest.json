@@ -2,7 +2,7 @@
     "short_name": "Coder - Open",
     "name": "Coder - Open",
     "icons": [{
-        "src": "favicon.png",
+        "src": "favicon192.png",
         "sizes": "192x192",
         "type": "image/x-icon"
     }],
